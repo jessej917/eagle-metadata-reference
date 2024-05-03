@@ -1,8 +1,8 @@
 {
   "id": "eagle-metadata-reference",
   "name": "Eagle Metadata Reference",
-  "version": "1.0.2",
-  "minAppVersion": "1.1.8",
+  "version": "1.0.3",
+  "minAppVersion": "1.5.7",
   "description": "Allows Obsidian to grab images from Eagle from the metadata. Allows for renaming.",
   "author": "Jesse Jenkins",
   "authorUrl": "https://github.com/jessej917/eagle-to-obsidian",
